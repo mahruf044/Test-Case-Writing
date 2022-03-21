@@ -38,3 +38,6 @@ Total **13** Test Case Summaray for the Registration Module Where,
 
 **Warning Case**:1
 
+
+## Please download xlsx files of each projects and open thses with Microsoft Excel  to see the detailed report.
+
