@@ -8,7 +8,9 @@
 Total **14** Test Case Summaray for the Registration Module Where,
 
 **Pass Case**:7
+
 **Fail Case**:6
+
 **Warning Case**:1
 
 
@@ -18,7 +20,9 @@ Total **14** Test Case Summaray for the Registration Module Where,
 Total **18** Test Case Summaray for the Registration Module Where,
 
 **Pass Case**:11
+
 **Fail Case**:4
+
 **Warning Case**:3
 
 Also there is a test case included as an image file where all module's  test case are shown.**Mind Map** application was used to make this particaular test case.
@@ -29,6 +33,8 @@ Also there is a test case included as an image file where all module's  test cas
 Total **13** Test Case Summaray for the Registration Module Where,
 
 **Pass Case**:7
+
 **Fail Case**:5
+
 **Warning Case**:1
 
