@@ -13,9 +13,6 @@ Total **14** Test Case Summaray for the Registration Module Where,
 
 **Warning Case**:1
 
-Screnshots:
-![Alt text](https://drive.google.com/file/d/1x1NCiO22gxpX-kJbOfxyyNnxBgcZ35Xd/view?usp=sharing "Optional Title")
-
 
 ### Test Case Project 2: Fabrlife Web(Registration Module)
 [Fabrilife Web](https://fabrilife.com)
